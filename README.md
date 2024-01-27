@@ -1,4 +1,6 @@
-Alterior Life
+# Alterior Life
+## Home of Osmosint
+
 
 <!---
 alteriorlife/alteriorlife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
