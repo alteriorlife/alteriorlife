@@ -1,5 +1,5 @@
 # Alterior Life
-## Home of Osmosint
+## Home of Oz Mosnt
 
 
 <!---
